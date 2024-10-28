@@ -1,0 +1,27 @@
+# Pi ChatGPT Vision Trigger Configuration
+
+# GPIO Settings
+led_pin: 17
+
+# Display Settings
+screen_width: 800
+screen_height: 600
+
+# Camera Settings
+camera_width: 1920         # Native camera resolution width
+camera_height: 1080        # Native camera resolution height
+capture_interval: 5        # seconds between captures
+
+# Image Processing
+max_image_width: 1920     # maximum width for API submission
+max_image_height: 1080    # maximum height for API submission
+
+# Trigger Words
+trigger_words:
+  - example
+  - test
+  - detect
+  - word
+
+# API Settings
+min_api_interval: 1      # minimum seconds between API calls

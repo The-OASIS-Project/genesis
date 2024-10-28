@@ -1,0 +1,7 @@
+pygame==2.6.1
+openai==1.12.0
+RPi.GPIO==0.7.1
+requests==2.31.0
+pillow==10.2.0
+pyyaml==6.0.1
+numpy==1.26.4
