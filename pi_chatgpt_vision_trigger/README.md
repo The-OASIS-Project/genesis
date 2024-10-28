@@ -201,16 +201,16 @@ This project was developed with the assistance of:
 
 ## License
 
-This project is licensed under the GNU General Public License v2.0 (GPL-2.0). This means:
+This project is licensed under the GNU General Public License v3 (GPLv3). This means:
 
 - You are free to use, modify, and distribute this software
 - If you distribute modified versions, you must:
   - Make your source code available
-  - License it under GPL-2.0
+  - License it under GPLv3
   - Document your changes
 - No warranty is provided with this software
 
-For the full license text, see [GNU GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+For the full license text, see [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## Contributing
 
@@ -242,4 +242,4 @@ We welcome contributions to the Pi ChatGPT Vision Trigger project!
 - Include relevant log excerpts
 - Specify hardware configuration
 
-Remember: By contributing to this project, you agree to license your contributions under GPL-2.0.
+Remember: By contributing to this project, you agree to license your contributions under GPLv3.
